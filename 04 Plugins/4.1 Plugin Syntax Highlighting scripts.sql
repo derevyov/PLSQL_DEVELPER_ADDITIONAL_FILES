@@ -1,4 +1,4 @@
-https://www.allroundautomations.com/products/pl-sql-developer/plug-ins/
+--https://www.allroundautomations.com/products/pl-sql-developer/plug-ins/
 ------------------------------
 SELECT DISTINCT p.object_name
   FROM user_procedures p
